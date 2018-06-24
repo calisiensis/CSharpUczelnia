@@ -1,0 +1,7 @@
+C:\Users\tomas\Desktop\PierwiastkowanieSumKwadratów\PierwiastkowanieSumKwadratów\bin\Debug\PierwiastkowanieSumKwadratów.exe.config
+C:\Users\tomas\Desktop\PierwiastkowanieSumKwadratów\PierwiastkowanieSumKwadratów\bin\Debug\PierwiastkowanieSumKwadratów.exe
+C:\Users\tomas\Desktop\PierwiastkowanieSumKwadratów\PierwiastkowanieSumKwadratów\bin\Debug\PierwiastkowanieSumKwadratów.pdb
+C:\Users\tomas\Desktop\PierwiastkowanieSumKwadratów\PierwiastkowanieSumKwadratów\obj\Debug\PierwiastkowanieSumKwadratów.csprojAssemblyReference.cache
+C:\Users\tomas\Desktop\PierwiastkowanieSumKwadratów\PierwiastkowanieSumKwadratów\obj\Debug\PierwiastkowanieSumKwadratów.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\PierwiastkowanieSumKwadratów\PierwiastkowanieSumKwadratów\obj\Debug\PierwiastkowanieSumKwadratów.exe
+C:\Users\tomas\Desktop\PierwiastkowanieSumKwadratów\PierwiastkowanieSumKwadratów\obj\Debug\PierwiastkowanieSumKwadratów.pdb
